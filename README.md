@@ -1,10 +1,9 @@
 👋 Hello there, I'm **BrandanW123**
 
-I am a Graduate student learning Information Technology, Administration, and Security at NJIT, New Jersey with Programming Experience. 
-Aside from that, my hobbies include audio engineering and installing/troubleshooting devices, PCs, Macs, TVs, and routers. 
+I am a graduate student continuing my education in Information Technology, Administration, and Security at NJIT while maintaining my experiences with programming. My hobbies revolve around audio engineering and on my free time installing or troubleshooting devices such as desktop computers, Macs, Televisions, or routers. 
 
 - 💻 I’m interested in: Backend, IT engineer, & Cyber Security speciality. 
-- 👨🏽‍💻 Currently learning: Information Technology, Administration, and Security
+- 👨🏽‍💻 On-going Education: Information Technology, Administration, and Security
 
 - ⚙️  I’m looking to collaborate on: 
 	- Research Internships / Position (IT engineer or Cyber Security) 
