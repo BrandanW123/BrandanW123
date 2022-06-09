@@ -12,7 +12,7 @@ Aside from that, my hobbies include audio engineering and installing/troubleshoo
 	- Installtion of Computers, Routers, Business Appliances
 	- Backend Engineer (with a little Front End Knowledge)   
 
-- 📫 Contact Me:  [LinkenIn](www.linkedin.com/in/bwilliams1107)
+- 📫 Contact Me:  [LinkedIn](www.linkedin.com/in/bwilliams1107)
 
 <!---
 BrandanW123/BrandanW123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
