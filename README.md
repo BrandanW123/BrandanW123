@@ -7,7 +7,7 @@ I am a graduate student continuing my education in Information Technology, Admin
 
 - ⚙️  I’m looking to collaborate on: 
 	- Research Internships / Position (IT engineer or Cyber Security) 
-	- IT Adminstrator on Network
+	- IT Adminstrator in Network
 	- Installtion of Computers, Routers, Business Appliances
 	- Backend Engineer (with a little Front End Knowledge)   
 
