@@ -11,9 +11,10 @@ I am a graduate student continuing my education in Information Technology, Admin
 	- Installtion of Computers, Routers, Business Appliances
 	- Backend Engineer (with a little Front End Knowledge)   
 
+<!---
 - 📫 Contact Me:  [LinkedIn](www.linkedin.com/in/bwilliams1107/)
 
-<!---
+
 BrandanW123/BrandanW123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
